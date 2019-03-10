@@ -1,6 +1,6 @@
 # SnapTweet
 
-I tiny Node app which automatically deletes your tweets after 24 hours, a bit like Snapchat.
+A tiny Node app which automatically deletes your tweets after 24 hours, a bit like Snapchat.
 
 ## Setup
 
@@ -9,3 +9,7 @@ I tiny Node app which automatically deletes your tweets after 24 hours, a bit li
 3. Change the date on line 38, if you want a hard cutoff. Eg. Don’t delete any tweets before: March 3rd, 2016.
 4. Deploy [somewhere](https://www.digitalocean.com/), keep it running using [Forever.js](https://github.com/foreverjs/forever)
 5. Have fun!
+
+## New Release :godmode:
+
+This app has been rewritten to a new version of ECMASCRIPT and has been added some TypeScript features, the project work same as the original version. enjoy! :octocat:
