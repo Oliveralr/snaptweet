@@ -10,6 +10,6 @@ A tiny Node app which automatically deletes your tweets after 24 hours, a bit li
 4. Deploy [somewhere](https://www.digitalocean.com/), keep it running using [Forever.js](https://github.com/foreverjs/forever)
 5. Have fun!
 
-## New Release :godmode:
+## New Release!:godmode:
 
-This app has been rewritten to a new version of ECMASCRIPT and has been added some TypeScript features, the project work same as the original version. enjoy! :octocat:
+This app has been rewritten to a new version of ECMASCRIPT and has been added some [TypeScript](https://www.typescriptlang.org/) features, the project work same as the original version. enjoy! :octocat:
